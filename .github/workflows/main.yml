@@ -12,6 +12,8 @@ jobs:
       - name: Afficher un message de fin
         run: echo "Done - Bye"
       - name: Messages multiples
-  run: |
-    echo "Premier message"
-    echo "Deuxième message"
+       run: |
+         echo "Premier message"
+         echo "Deuxième message"
+
+ 
